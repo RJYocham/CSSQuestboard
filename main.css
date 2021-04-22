@@ -1,0 +1,40 @@
+body {
+    background-image: url("../CSSCheckup/photos/MH_background.webp");
+}
+
+.css-classes {
+    background-color: tan;
+}
+
+.text{
+    background-color: beige;
+    border:2px solid black;
+        margin-top: 50px;
+        margin-right: 50px;
+        margin-bottom: 50px;
+        margin-left: 50px;
+    padding: 20px 20px 20px 40px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#signature{
+    background-color: beige;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Brush Script MT", Arial, Helvetica, sans-serif;
+    border:5px double rgb(95, 55, 32);
+        margin-top: 50px;
+        margin-right: 1500px;
+        margin-bottom: 50px;
+        margin-left: 50px;
+    padding: 0px 0px 0px 0px;
+}
+
+.barioth img{
+    width: 400px;
+    height: 400px;
+    background-color: beige;
+}
